@@ -1,0 +1,13 @@
+#main_div {
+    display: flex;
+    justify-content: center;
+    font-family: 'Share Tech Mono', monospace;
+    color: rgb(44, 6, 6);
+    margin: 10px;
+    padding: 10px;
+}
+
+h1 {
+    margin: 20px 20px;
+    justify-content: center;
+}
